@@ -95,11 +95,6 @@ pip install -r requirements.txt
 python main.py
 
 ```
-
-3. **Choose mode when prompted:**
-
--1 → Weather Info (GUI)
--2 → Calculator (Console)
 ---
 
 ### Choose mode when prompted:
